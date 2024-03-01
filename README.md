@@ -8,15 +8,14 @@
     
   ### Step 2 ( à l'intérieur du folder du bot discord, faire ces commandes) : 
     - npm init
-    - Rentrer les informations de votre projet
-    - dans la partie entry point changer ecrivez bot.js pour changer l'entry point au fichier de votre bot 
+    Rentrer les informations de votre projet, dans la partie entry point changer ecrivez bot.js pour changer l'entry point au fichier de votre bot 
     - npm install discord.js
     - npm install dotenv
     - npm install discord-api-types
     - npm install @discordjs/rest
 
   ### Step 3 
-    - votre project tree devras resembler à ça : 
+    Votre project tree devras resembler à ça : 
       |-- Discord_Bot
          |-- node_modules
             |-- ... Toutes vos dépendances
