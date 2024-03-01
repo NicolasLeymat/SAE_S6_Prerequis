@@ -16,7 +16,7 @@
     - npm install @discordjs/rest
 
   ### Step 3 
-    - votre project tree devrais resembler à ça : 
+    - votre project tree devras resembler à ça : 
       |-- Discord_Bot
          |-- node_modules
             |-- ... Toutes vos dépendances
