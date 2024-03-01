@@ -16,12 +16,6 @@
     - npm install @discordjs/rest
 
   ### Step 3 
-    - Créer le folder src 
-    - Créer votre fichier main (ici bot.js)
-    - Créer 3 folders (commands, events, functions)
-    - Dans le folder functions créer un folder handlers
-    - Dans le folder events créer un folder client
-    - Dans le folder commands créer un folder tools
     - votre project tree devrais resembler à ça : 
       |-- Discord_Bot
          |-- node_modules
@@ -40,6 +34,12 @@
          |*- .env
          |*- package-lock.json
       |--|*- package.json
+    - Créer le folder src 
+    - Créer votre fichier main (ici bot.js)
+    - Créer 3 folders (commands, events, functions)
+    - Dans le folder functions créer un folder handlers
+    - Dans le folder events créer un folder client
+    - Dans le folder commands créer un folder tools
 
 ## Initialisation du bot
     Dans cette partie nous allons voir comment créer le bot récupérer son token puis l'ajouter sur un seerveur discord
