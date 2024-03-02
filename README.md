@@ -46,6 +46,7 @@
     - Si vous n'avez pas de serveur de test, créer un serveur discord qui vous serviras de test pour votre bot
     - Ensuite rendez-vous sur https://discord.com/developers/applications
     - en haut à droite vous verrez un bouton avec marqué New application cliqué dessus et donnée lui le nom que vous voulez
+    - Activer les Privileged Gateway Intents
   
   ### Step 2 :
     - Ensuite rendez-vous dans la partie Bot 
