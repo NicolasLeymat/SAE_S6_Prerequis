@@ -48,7 +48,9 @@
     - en haut à droite vous verrez un bouton avec marqué New application cliqué dessus et donnée lui le nom que vous voulez
   
   ### Step 2 :
-    - Ensuite rendez-vous dans la partie Bot cliqué sur reset token et copier le dans le .env avec le nom que vous voulez (conseil : gardez le meme nom)
+    - Ensuite rendez-vous dans la partie Bot 
+    - cliqué sur reset token et copier le token montré à l'écran
+    - Ensuite coller le dans le .env avec le nom que vous voulez (conseil : gardez le meme nom) exemple token=votre_token
   
   ### Step 3 :
     - Allé dans OAuth2, URL Generator
