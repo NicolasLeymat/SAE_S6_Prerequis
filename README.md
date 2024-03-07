@@ -34,7 +34,7 @@
          |*- .env
          |*- package-lock.json
       |--|*- package.json
-    - Créez le folder src, ainsi que le fichier .env
+    - Créez le folder src, ainsi que le fichier .env si ce n'est pas déjà fait
     - Créez votre fichier main (ici bot.js)
     - Créez 3 folders (commands, events, functions)
     - Dans le folder functions créez un folder handlers
