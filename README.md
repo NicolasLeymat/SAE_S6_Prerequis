@@ -40,6 +40,7 @@
     - Dans le folder functions créez un folder handlers
     - Dans le folder events créez un folder client
     - Dans le folder commands créez un folder tools
+    - ATTENTION verifier que la partie main dans votre package.json à un lien reliatif qui pointe vers le bon fichier
 
 ## Initialisation du bot
     Dans cette partie, nous allons voir comment créer le bot, récupérer son token, puis l'ajouter à un serveur Discord
