@@ -4,6 +4,7 @@
 
 ## Initialisation du projet
   ### Step 1 : 
+    - Vous devez dans un premier temps avoir d'installer node v19 minimum pour être sûr
     - Créez le dossier qui contiendra le bot discord
     
   ### Step 2 ( à l'intérieur du folder du bot discord, faire ces commandes) : 
@@ -33,7 +34,7 @@
          |*- .env
          |*- package-lock.json
       |--|*- package.json
-    - Créez le folder src 
+    - Créez le folder src, ainsi que le fichier .env
     - Créez votre fichier main (ici bot.js)
     - Créez 3 folders (commands, events, functions)
     - Dans le folder functions créez un folder handlers
@@ -46,7 +47,7 @@
     - Si vous n'avez pas de serveur de test, créez un serveur discord qui vous servira de test pour votre bot
     - Ensuite, rendez-vous sur https://discord.com/developers/applications
     - En haut à droite, vous verrez un bouton avec marqué "New application". Cliquez dessus et donnez-lui le nom que vous voulez
-    - Activez les "Privileged Gateway Intents"
+    - Dans la partie BOT de votre application activez les "Privileged Gateway Intents" en cochant les 3 intents en dessous 
   
   ### Step 2 :
     - Ensuite, rendez-vous dans la partie "Bot" 
